@@ -36,6 +36,40 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
 
+## Team Member Onboarding Checklist
+Use this checklist when bringing new team members onto an existing project:
+
+### Pre-arrival (PM prepares)
+- [ ] Role and responsibilities clearly defined
+- [ ] Access requests submitted (repos, tools, communication channels)
+- [ ] Onboarding buddy assigned
+- [ ] Relevant documentation identified and organized
+- [ ] First week schedule planned (meetings, reviews, introductions)
+
+### First Day
+- [ ] Welcome and team introductions
+- [ ] Review project charter and one-pager
+- [ ] Tour of project artifacts (board, backlog, docs)
+- [ ] Access verification (can they log in to everything?)
+- [ ] Assign first small task or shadowing activity
+
+### First Week
+- [ ] Read [Roles & Personas](octoacme-roles-and-personas.md) to understand team structure
+- [ ] Review all relevant process docs (planning, execution, risks)
+- [ ] Attend key recurring meetings (standups, syncs)
+- [ ] Meet 1:1 with PM, Product Manager, and key collaborators
+- [ ] Review recent PRs and retrospectives to understand context
+- [ ] Complete first meaningful contribution (with buddy support)
+
+### First Month
+- [ ] Taking on regular responsibilities independently
+- [ ] Participating actively in team ceremonies
+- [ ] Comfortable escalating questions and blockers
+- [ ] PM check-in: address gaps, answer questions, gather feedback
+- [ ] Document any onboarding improvements for future team members
+
+---
+
 ## Decision Gate
 Move to planning when:
 - Success metrics are clear

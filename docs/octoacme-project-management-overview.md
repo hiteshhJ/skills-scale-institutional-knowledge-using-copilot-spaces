@@ -17,8 +17,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- QA/Testing Specialist: validate quality and acceptance criteria, design test strategies.
+- Release Manager: coordinate release scheduling, deployment, and verification.
+- Security Lead: own security reviews, establish secure practices, respond to incidents.
+- Support Specialist: manage support requests, triage issues, maintain user documentation.
+- User Advocate: collect user feedback, validate features from user perspective.
 - Stakeholders: provide inputs and approvals.
+
+For detailed role descriptions, responsibilities, and interactions, see [Roles & Personas](octoacme-roles-and-personas.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
